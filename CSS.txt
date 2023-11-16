@@ -1,0 +1,9 @@
+h1{
+font-size :28px;
+}
+a:hover{
+color:fuchsia;
+}
+p{
+color:cyan;
+}
